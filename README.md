@@ -35,5 +35,5 @@ My name is Camille MARION (call me Cam) and I'm a computer science student. I'm 
 </a>
 
 <a href="https://github.com/CamiilleMrn/Cryptage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiilleMrn&repo=Cryptage&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiilleMrn&repo=Cryptage&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" />
 </a>
