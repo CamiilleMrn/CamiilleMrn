@@ -1,3 +1,4 @@
+<img width = "950" height="300" src="https://github.com/CamiilleMrn/CamiilleMrn/blob/main/BanniereGitHub.jpeg?raw=true">
 
 ### Hello, folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -10,15 +11,15 @@ My name is Camille MARION (call me Cam) and I'm a computer science student. I'm 
 
 ### Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/Code-Ada-informational?style=flat&logo=ada&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/WebDev-HTML-informational?style=flat&logo=html5&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/WebDev-Css-informational?style=flat&logo=css3&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/Tools-Eclypse-informational?style=flat&logo=eclipseide&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/Tools-Gnat-informational?style=flat&logo=<>&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=c0001a)
-![](https://img.shields.io/badge/OS-Linuw-informational?style=flat&logo=linux&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=660066)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=660066)
+![](https://img.shields.io/badge/Code-Ada-informational?style=flat&logo=ada&logoColor=white&color=660066)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=660066)
+![](https://img.shields.io/badge/WebDev-HTML-informational?style=flat&logo=html5&logoColor=white&color=660066)
+![](https://img.shields.io/badge/WebDev-Css-informational?style=flat&logo=css3&logoColor=white&color=660066)
+![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=660066)
+![](https://img.shields.io/badge/Tools-Eclypse-informational?style=flat&logo=eclipseide&logoColor=white&color=660066)
+![](https://img.shields.io/badge/Tools-Gnat-informational?style=flat&logo=<>&logoColor=white&color=660066)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=660066)
+![](https://img.shields.io/badge/OS-Linuw-informational?style=flat&logo=linux&logoColor=white&color=660066)
 
