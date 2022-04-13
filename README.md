@@ -18,7 +18,7 @@ My name is Camille MARION (call me Cam) and I'm a computer science student. I'm 
 ![](https://img.shields.io/badge/WebDev-HTML-informational?style=flat&logo=html5&logoColor=white&color=660066)
 ![](https://img.shields.io/badge/WebDev-Css-informational?style=flat&logo=css3&logoColor=white&color=660066)
 ![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=660066)
-![](https://img.shields.io/badge/Tools-Eclypse-informational?style=flat&logo=eclipseide&logoColor=white&color=660066)
+![](https://img.shields.io/badge/Tools-Eclipse-informational?style=flat&logo=eclipseide&logoColor=white&color=660066)
 ![](https://img.shields.io/badge/Tools-Gnat-informational?style=flat&logo=<>&logoColor=white&color=660066)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=660066)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=660066)
