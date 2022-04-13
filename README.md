@@ -23,3 +23,17 @@ My name is Camille MARION (call me Cam) and I'm a computer science student. I'm 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=660066)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=660066)
 
+--- 
+
+### GitHub stat
+
+<a href="https://github.com/CamiilleMrn/CamiilleMrn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiilleMrn&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/CamiilleMrn/CamiilleMrn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CamiilleMrn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" alt="Camille's GitHub Stats" />
+</a>
+
+<a href="https://github.com/CamiilleMrn/Cryptage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiilleMrn&repo=Cryptage&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
