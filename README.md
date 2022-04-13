@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**CamiilleMrn/CamiilleMrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
+My name is Camille MARION (call me Cam) and I'm a computer science student. I'm from France, living in Toulouse and curently studying at Paul Sabatier's IUT. You can find me on [twitter][1], [instagram][2] and discord (Zrexeha#0007).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]: https://twitter.com/camiille_mrn
+[2]: https://www.instagram.com/camiille.mrn/
+
+---
+
+### Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/Code-Ada-informational?style=flat&logo=ada&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/WebDev-HTML-informational?style=flat&logo=html5&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/WebDev-Css-informational?style=flat&logo=css3&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/Tools-Eclypse-informational?style=flat&logo=eclipseide&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/Tools-Gnat-informational?style=flat&logo=<>&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=c0001a)
+![](https://img.shields.io/badge/OS-Linuw-informational?style=flat&logo=linux&logoColor=white&color=c0001a)
+
