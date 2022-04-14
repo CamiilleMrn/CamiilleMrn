@@ -2,7 +2,7 @@
 
 ### Hello, folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Camille MARION (call me Cam) and I'm a computer science student. I'm from France, living in Toulouse and curently studying at Paul Sabatier's IUT. You can find me on [twitter][1], [instagram][2] and discord (Zrexeha#0007).
+My name is Camille MARION (call me Cam) and I'm a computer science student. I'm from France, living in Toulouse and currently studying at Paul Sabatier's IUT. You can find me on [twitter][1], [instagram][2] and discord (Zrexeha#0007).
 
 [1]: https://twitter.com/camiille_mrn
 [2]: https://www.instagram.com/camiille.mrn/
