@@ -35,5 +35,11 @@ My name is Camille MARION (call me Cam) and I'm a computer science student. I'm 
 </a>
 
 <a href="https://github.com/CamiilleMrn/Cypher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiilleMrn&repo=ESporterClient&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/CamiilleMrn/Cypher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiilleMrn&repo=ESporterServer&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/CamiilleMrn/Cypher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiilleMrn&repo=Cypher&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" />
 </a>
