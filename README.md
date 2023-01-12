@@ -28,4 +28,5 @@ My name is Camille MARION (call me Cam) and I'm a computer science student. I'm 
 
 ### GitHub stat
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiilleMrn&show_icons=true&theme=radical)
+![Camille's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiilleMrn&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleMrn)](https://github.com/CamilleMrn/github-readme-stats)
