@@ -28,19 +28,4 @@ My name is Camille MARION (call me Cam) and I'm a computer science student. I'm 
 
 ### GitHub stat
 
-<a href="https://github.com/CamiilleMrn/CamiilleMrn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiilleMrn&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/CamiilleMrn/CamiilleMrn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CamiilleMrn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" alt="Camille's GitHub Stats" />
-</a>
-
-<a href="https://github.com/CamiilleMrn/Cypher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiilleMrn&repo=ESporterClient&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/CamiilleMrn/Cypher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiilleMrn&repo=ESporterServer&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/CamiilleMrn/Cypher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiilleMrn&repo=Cypher&title_color=ffffff&text_color=660066_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[![Camille's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiilleMrn)](https://github.com/anuraghazra/github-readme-stats)
